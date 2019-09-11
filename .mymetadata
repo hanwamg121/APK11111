@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="APK11111"
+  id="myeclipse.1561273998559"
+  context-root="/APK11111"
+  j2ee-spec="5.0"
+  archive="APK11111.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
